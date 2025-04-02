@@ -1,0 +1,13 @@
+.bottle-class{
+    border: 2px solid greenyellow;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15px;
+    /* display: grid;
+    grid-template-columns: auto auto auto; */
+
+}
+
+.bottle-class img{
+    width: 200px;
+}
